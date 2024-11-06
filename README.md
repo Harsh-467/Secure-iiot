@@ -15,6 +15,7 @@ You can then copy the scripts as mentioned in the folder structure to the respec
 For node red dashboard and flows you can import the json flow and then edit the nodes to suit your respective needs.
 
 For any configuration related setup you can email me at harshguptag467@gmail.com
+You can see the demo's for the controls in the following shared folder - https://drive.google.com/drive/folders/1nJ4BMmjMXkSy4gyq90ffWE9QKU0tZhFn?usp=sharing
 
 
 
